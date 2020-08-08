@@ -1,0 +1,5 @@
+Aug 19 09:33:03 yoda kernel: [  230.455296] EXT4-fs (dm-1): re-mounted. Opts: errors=remount-ro
+Aug 21 15:26:16 yoda NetworkManager[1135]: <error> [1566411976.3667] platform-linux: do-change-link[3]: failure changing link: failure 19 (No such device)
+Aug 22 14:34:00 yoda NetworkManager[1135]: <error> [1566495240.1370] platform-linux: do-change-link[4]: failure changing link: failure 19 (No such device)
+Aug 23 13:24:56 yoda NetworkManager[1135]: <error> [1566577496.8328] platform-linux: do-change-link[5]: failure changing link: failure 19 (No such device)
+Aug 23 19:03:46 yoda NetworkManager[1135]: <error> [1566597826.6752] platform-linux: do-change-link[6]: failure changing link: failure 19 (No such device)

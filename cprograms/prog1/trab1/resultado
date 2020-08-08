@@ -1,0 +1,25 @@
+tamanho inicial da pilha eh: 0
+0 empilhado
+tamanho da pilha: 1
+1 empilhado
+tamanho da pilha: 2
+2 empilhado
+tamanho da pilha: 3
+3 empilhado
+tamanho da pilha: 4
+4 empilhado
+tamanho da pilha: 5
+5 nao inserido: pilha cheia
+tamanho da pilha: 5
+topo eh: 4
+4 desempilhado
+topo eh: 3
+3 desempilhado
+topo eh: 2
+2 desempilhado
+topo eh: 1
+1 desempilhado
+topo eh: 0
+0 desempilhado
+pilha vazia, topo nao existe
+nao desempilhou: pilha vazia

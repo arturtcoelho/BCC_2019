@@ -1,0 +1,7 @@
+<13>Aug 27 16:21:30 atc19[4171]: Teste do comando logger
+<13>Aug 27 16:21:34 atc19[4174]: Teste do comando logger
+<13>Aug 27 16:21:46 atc19[4189]: Teste do comando logger
+<13>Aug 27 16:21:48 atc19[4191]: Teste do comando logger
+<13>Aug 27 16:21:48 atc19[4193]: Teste do comando logger
+<13>Aug 27 16:21:48 atc19[4195]: Teste do comando logger
+<13>Aug 27 16:21:49 atc19[4197]: Teste do comando logger

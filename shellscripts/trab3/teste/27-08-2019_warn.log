@@ -1,0 +1,10 @@
+Aug 19 09:33:05 yoda NetworkManager[1135]: <warn>  [1566217985.8282] SettingsPlugin-Ofono: file doesn't exist: /var/lib/ofono
+Aug 19 09:33:08 yoda NetworkManager[1135]: <warn>  [1566217988.3108] failed to enumerate oFono devices: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.ofono was not provided by any .service files
+Aug 21 15:01:26 yoda NetworkManager[1135]: <warn>  [1566410486.4068] device (eth0): failed to find device 3 'eth0' with udev
+Aug 21 15:26:16 yoda NetworkManager[1135]: <warn>  [1566411976.3668] device (enp0s20f0u2c4i2): failed to disable userspace IPv6LL address handling
+Aug 22 12:55:54 yoda NetworkManager[1135]: <warn>  [1566489354.3868] device (eth0): failed to find device 4 'eth0' with udev
+Aug 22 14:34:00 yoda NetworkManager[1135]: <warn>  [1566495240.1371] device (eth0): failed to disable userspace IPv6LL address handling
+Aug 23 13:01:02 yoda NetworkManager[1135]: <warn>  [1566576062.8259] device (eth0): failed to find device 5 'eth0' with udev
+Aug 23 13:24:56 yoda NetworkManager[1135]: <warn>  [1566577496.8328] device (eth0): failed to disable userspace IPv6LL address handling
+Aug 23 17:52:59 yoda NetworkManager[1135]: <warn>  [1566593579.6138] device (eth0): failed to find device 6 'eth0' with udev
+Aug 23 19:03:46 yoda NetworkManager[1135]: <warn>  [1566597826.6753] device (eth0): failed to disable userspace IPv6LL address handling
